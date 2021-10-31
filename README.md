@@ -1,4 +1,4 @@
-# AwesomeList_Regularation_Compliance
+# AwesomeList_Regulation_Compliance
 說明：蒐集世界各國對加密貨幣與區塊鏈的監管法規與合規進展
 
 # 「區塊鏈＆加密貨幣」好棒棒清單內容計畫
